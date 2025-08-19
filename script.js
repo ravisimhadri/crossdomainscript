@@ -1,1 +1,1 @@
-<script>alert("✅ External script loaded from GitHub Pages!");</script>
+<script>alert("✅ External script loaded from GitHub Pages!")</script>
